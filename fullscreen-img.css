@@ -53,3 +53,6 @@
   padding-top: 40px;
 }
 
+.reveal .slides [alt=fullscreen] {
+  display: none;
+}
